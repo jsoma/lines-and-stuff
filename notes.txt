@@ -1,3 +1,10 @@
+
+
+Continuous Integration
+Automated testing
+
+
+
 ### Installing sublime linter (eslint)
 
 Command + shift + p
